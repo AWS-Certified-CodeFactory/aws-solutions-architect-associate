@@ -15,3 +15,6 @@
 ## Kinesis
 
 ## EBS
+![SSD Specs](/images/table_ebs_ssd.png)
+![HDD Specs](/images/table_ebs_hdd.png)
+
