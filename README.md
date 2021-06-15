@@ -22,3 +22,6 @@ Starting point for the Exam Guide
 - 4.1 Identify cost-effective storage solutions
 - 4.2 Identify cost-effective compute and database services 
 - 4.3 Design cost-optimized network architectures
+
+#### Resources
+- [AWS: Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/?mkt_tok=MTEyLVRaTS03NjYAAAF9r5lapcAaUdC19zJRv2PivlG52SIQp6UfBACdPshVXwKTU9ozL9-c5OVrsFF_oV7s2wjFXB9gJkaDqMTrBJ3jPxwDzSOmAJwdtPYprzsU63AP2YUxQpWb&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
