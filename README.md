@@ -11,7 +11,10 @@ Starting point for the Exam Guide
 - 2.1 Identify elastic and scalable compute solutions for a workload
 - 2.2 Select high-performing and scalable storage solutions for a workload
 - 2.3 Select high-performing networking solutions for a workload
-- 2.4 Choose high-performing database solutions for aworkload
+- 2.4 Choose high-performing database solutions for a workload
+
+![Operational Excellence](images/operational_excellence.png)
+
 
 ## Domain 3: Design Secure Applications and Architectures
 - 3.1 Design secureaccessto AWS resources 
