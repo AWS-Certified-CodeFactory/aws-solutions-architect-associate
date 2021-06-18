@@ -1,6 +1,8 @@
 # AWS Solutions Architect Associte Exam
 Starting point for the Exam Guide
 
+![Cert](certs/aws_saa_exam_readiness.png)
+
 ## Domain 1: Design Resilient Architectures
 - 1.1 Designa multi-tier architecture solution
 - 1.2 Design highly availableand/or fault-tolerant architectures
