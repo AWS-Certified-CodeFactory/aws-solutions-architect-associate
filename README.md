@@ -29,6 +29,7 @@ Starting point for the Exam Guide
 - 4.3 Design cost-optimized network architectures
 
 ![Cost Optimization](images/cost_optimization.png)
+![S3 Lifecylc](images/s3_lifecycle_transition.png)
 
 #### Resources
 - [AWS: Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/?mkt_tok=MTEyLVRaTS03NjYAAAF9r5lapcAaUdC19zJRv2PivlG52SIQp6UfBACdPshVXwKTU9ozL9-c5OVrsFF_oV7s2wjFXB9gJkaDqMTrBJ3jPxwDzSOmAJwdtPYprzsU63AP2YUxQpWb&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
