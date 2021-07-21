@@ -1,5 +1,5 @@
 # AWS Solutions Architect Associte Exam
-Starting point for the Exam Guide
+Starting point for the Exam Guide. Click [HERE](MISTAKES.md) for all the mistakes I repeatedly make!
 
 ![Cert](certs/aws_saa_exam_readiness.png)
 
