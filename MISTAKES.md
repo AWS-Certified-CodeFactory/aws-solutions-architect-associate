@@ -5,3 +5,6 @@ Here's a long list of dumb mistakes I made over and over again
 And remember CNAME => OTHER DNS RECORD
 ![Q1](images/mistake_01a.png)
 ![Q1](images/mistake_01b.png)
+
+## RDS Replication
+![Q2](images/mistake_02.png)
