@@ -11,3 +11,10 @@ And remember CNAME => OTHER DNS RECORD
 
 ## S3 Policies
 ![Q3](images/mistake_03.png)
+
+## Instance Tenancy
+After you launch an instance, there are some limitations to changing its tenancy:
+- [NO] default to anything
+- [NO] anything to default
+- [YES] dedicated to host
+- [YES] from host to dedicated
