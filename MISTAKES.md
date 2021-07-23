@@ -19,3 +19,6 @@ Only RDS Multi-AZ is Synced, But it sucks since its just standby
 - [NO] anything to default
 - [YES] dedicated to host
 - [YES] from host to dedicated
+#### VPC Tenancy
+- [YES] dedicated to default 
+- [NO] default to dedicated
