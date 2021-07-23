@@ -22,3 +22,6 @@ Only RDS Multi-AZ is Synced, But it sucks since its just standby
 #### VPC Tenancy
 - [YES] dedicated to default 
 - [NO] default to dedicated
+#### To create Dedicated Instances, you can do the following:
+- Create the VPC with the instance tenancy set to dedicated (all instances launched into this VPC are Dedicated Instances).
+- Create the VPC with the instance tenancy set to default, and specify a tenancy of dedicated for any instances when you launch them.
