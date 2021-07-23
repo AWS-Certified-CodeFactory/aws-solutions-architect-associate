@@ -8,3 +8,6 @@ And remember CNAME => OTHER DNS RECORD
 
 ## RDS Replication
 ![Q2](images/mistake_02.png)
+
+## S3 Policies
+![Q3](images/mistake_03.png)
