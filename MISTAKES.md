@@ -27,4 +27,4 @@ Only RDS Multi-AZ is Synced, But it sucks since its just standby
 - Create the VPC with the instance tenancy set to default, and specify a tenancy of dedicated for any instances when you launch them.
 
 ## 5. Deployment
-![Q4](images/mistake_04.jpg)
+![Q4](images/mistake_04.png)
